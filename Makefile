@@ -1,0 +1,5 @@
+# Makefile
+
+format:
+	black .
+	isort .
